@@ -1,21 +1,45 @@
-MIT License
+FS25 Vehicle Deformation - Personal Use License
 
-Copyright (c) 2026 BMProd
+Copyright (c) 2026 BMProd (BMProd-FS).
+All rights reserved except as expressly granted below.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Scope
+These terms apply only to original material owned by BMProd in this project,
+from the commit introducing this license onward. Third-party code, assets,
+and game/engine materials remain subject to their respective owners' rights
+and applicable terms. This license grants no rights to third-party material.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Permitted personal use
+You may download, install, run, and modify the covered material for your own
+personal use with Farming Simulator 25. You may keep private backup copies.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Distribution requires permission
+Without prior written permission from BMProd, you may not distribute, publish,
+re-upload, share copies of, sell, sublicense, or include the covered material
+in another mod, mod pack, or product, in whole or in part. This restriction
+also applies to modified versions and extracted code or assets.
+You may share links to the author's official repository or release pages.
+
+4. Notices and reserved rights
+Retain this license and applicable copyright notices in permitted copies.
+All rights not expressly granted are reserved. Nothing in these terms limits
+rights that cannot be restricted under applicable law or rights granted to
+GitHub and its users under GitHub's Terms of Service for public repositories.
+This license does not revoke permissions already granted for earlier copies
+under the MIT License or other applicable licenses.
+
+5. Permission requests
+Contact BMProd through https://github.com/BMProd-FS to request written permission.
+
+6. Disclaimer
+THE COVERED MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+TO THE EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE FOR
+ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM ITS USE.
+
+Краткое описание на русском (основные условия приведены выше):
+Личное использование и личные изменения разрешены. Распространение,
+перезалив, продажа и включение в другие моды или сборки, в том числе
+изменённых версий и отдельных частей авторских материалов, допускаются
+только с предварительного письменного разрешения BMProd.
+Ссылкой на официальный репозиторий или страницу релиза делиться можно.
+Права третьих лиц и ранее выданные разрешения по MIT сохраняются.
