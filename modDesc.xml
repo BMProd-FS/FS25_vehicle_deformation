@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="114">
+    <author>Koldun</author>
+    <version>0.1.17.0</version>
+    <title><en>Vehicle Deformation — experimental</en><ru>Визуальные повреждения техники — прототип</ru></title>
+    <description>
+        <en>Procedural visual dents on existing vehicles. No edits to vehicle files. Experimental single-player version; standard vehicle materials only. Console: vdStatus, vdDent, vdRepair, vdToggle.</en>
+        <ru>Процедурные вмятины без изменения файлов техники. Экспериментальная версия для одиночной игры, стандартные материалы техники. Команды: vdStatus, vdDent, vdRepair, vdToggle.</ru>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="false"/>
+    <extraSourceFiles>
+        <sourceFile filename="scripts/VDMaterial.lua"/>
+        <sourceFile filename="scripts/VehicleDeformation.lua"/>
+    </extraSourceFiles>
+</modDesc>
